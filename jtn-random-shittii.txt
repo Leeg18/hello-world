@@ -1,3 +1,4 @@
 Tässä harjoittelen vähän kirjoittamaan.
 Tässä lisään sanoja.
-1,2,3 Tässä lisään lukuja
+1,2,3 Tässä lisään lukuja.
+#"@ Tässä lisään erikoismerkkejä.
